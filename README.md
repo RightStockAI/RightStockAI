@@ -6,7 +6,7 @@ AI-powered stock market analysis and prediction platform for Indian stock market
 [![Next.js](https://img.shields.io/badge/Next.js-15-black)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue)](https://www.typescriptlang.org/)
 
-🔴 **Live App:** [www.rightstockai.com](https://www.rightstockai.com)
+🟢 **Live App:** [www.rightstockai.com](https://www.rightstockai.com)
 
 ---
 
