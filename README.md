@@ -67,7 +67,7 @@ RightStockAI is a comprehensive stock market analysis platform designed specific
 - **UI Components:** shadcn/ui
 - **Charts:** Recharts, TradingView widgets
 - **State Management:** React Context + hooks
-- **Authentication:** NextAuth.js
+- **Authentication:** Better-Auth
 
 ### Backend & Infrastructure
 - **Backend:** Modern Python-based REST API
